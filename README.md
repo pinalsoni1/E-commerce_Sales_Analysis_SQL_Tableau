@@ -15,7 +15,9 @@ Advanced SQL: Utilized advanced SQL window functions like RANK() and NTILE() to 
 Interactive Dashboard: Designed and built a dynamic dashboard in Tableau featuring multiple filters and a parameter that allows users to switch between different metrics (Total Sales, No of Items, Avg Sales, etc.) and see all charts update simultaneously.
 
 Tools Used
+
 SQL
+
 Tableau
 
 How To Use
